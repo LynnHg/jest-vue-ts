@@ -1,3 +1,6 @@
+
+import "jest-location-mock";
+
 Object.defineProperty(global, 'localStorage', {
   value: {
     store: {} as Record<string, string>,
