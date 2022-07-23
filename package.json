@@ -1,0 +1,23 @@
+{
+  "name": "jest-vue-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LynnHg/jest-vue-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LynnHg/jest-vue-ts/issues"
+  },
+  "homepage": "https://github.com/LynnHg/jest-vue-ts#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
